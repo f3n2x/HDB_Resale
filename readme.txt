@@ -1,15 +1,16 @@
 
-This notebook was written in pyspark code, and run in Databricks environment. 
+1. This notebook was written in pyspark code, and run in Databricks environment. 
 There are 3 scirpts park in the same folder in this project:
-1. common01 
+* common01 
 	This is configuration file where functions, variable path reside.
-	You can configure main folder under DATA_FOLDER here  
+	You can configure main folder under DATA_FOLDER here.
+	Alternatively please update DATA_FOLDER directly in the resale01 & resale02 if common.py doesn't work
 
-2. resale01
+* resale01
 	This is the first notebook to extract data from input folder 
 	Extract data and save it into out folder( raw, valid and fail) in csv format
 
-3. resale02
+* resale02
 	Resale02 will extract csv data from input/valid folder
 	It will transform data and save it into out/transform folder in csv format
 
