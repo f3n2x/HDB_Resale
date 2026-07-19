@@ -25,3 +25,8 @@ Data Architecture
 To be honest I'm not familiar with AWS, I have more experience with Microsoft Azure products.
 Nevertheless, please find data architecture under arch folder.
 
+
+
+Thank you
+Fandy
+
