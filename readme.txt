@@ -14,9 +14,14 @@ There are 3 scirpts park in the same folder in this project:
 	It will transform data and save it into out/transform folder in csv format
 
 
+As well as 2 folders(input and out) where the python scripts will process source file from input folder and upload the result into out folder.
+Since the folder size is > limit (25 MB), I zip the file and upploaded it  into Git Respository 
+
+
+
 
 Data Architecture
 
-To be honest I'm not familiar with AWS, I have experience with Microsoft Azure products.
-But I tried to pre
+To be honest I'm not familiar with AWS, I have more experience with Microsoft Azure products.
+Nevertheless, please find data architecture under arch folder.
 
