@@ -14,7 +14,7 @@ There are 3 scirpts park in the same folder in this project:
 	It will transform data and save it into out/transform folder in csv format
 
 
-As well as 2 folders(input and out) where the python scripts will process source file from input folder and upload the result into out folder.
+There are 2 folders(input and out) where the python scripts will process source file from input folder and upload the result into out folder.
 Since the folder size is > limit (25 MB), I zip the file and upploaded it  into Git Respository 
 
 
