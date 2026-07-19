@@ -21,7 +21,7 @@ Since the folder size is > limit (25 MB), I zip the file and upploaded it  into 
 
 
 
-Data Architecture
+2. Data Architecture
 
 To be honest I'm not familiar with AWS, I have more experience with Microsoft Azure products.
 Nevertheless, please find data architecture under arch folder.
